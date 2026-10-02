@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on applied AI, RAG, LLM, AI research, and intelligent application projects.
 - 📫 How to reach me: Connect with me on LinkedIn or through GitHub.
 - ⚡ Fact: My background combines 10+ years in technology and business development with research in Data Science and LLM/RAG systems.
-- # Research Papers: [Read the paper on MDPI]([YOUR-ARXIV-LINK](https://www.mdpi.com/2078-2489/16/9/766))
+- Research Papers: [Read the paper on MDPI]([YOUR-ARXIV-LINK](https://www.mdpi.com/2078-2489/16/9/766))
 
     
 <!---
